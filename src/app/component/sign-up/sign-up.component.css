@@ -1,0 +1,11 @@
+.fom{
+    padding: 20px;
+    border: 1px black solid;
+    border-radius: 20px;
+    background-color: rgba(87, 92, 90, 0.281);
+    font-family: 'Courier New', Courier, monospace;    
+}
+.field{
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;    
+}
