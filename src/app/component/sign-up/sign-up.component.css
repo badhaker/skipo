@@ -9,3 +9,21 @@
     padding-top: 20px;
     font-family: 'Courier New', Courier, monospace;    
 }
+.button1 {
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(216, 140, 140);
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  .loginlink{
+    text-decoration: none;
+    color: white;
+  }

@@ -3,4 +3,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(../assets/cloud-2714617.jpg);
+    background-size: cover;
+    color: aliceblue;
+}
+.con{
+    width: auto;
+    background: fixed;
 }
